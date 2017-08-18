@@ -1,0 +1,3 @@
+cordova-plugin-device 1.1.7-dev
+cordova-plugin-sim 1.3.3.
+cordova-plugin-whitelist 1.3.2
