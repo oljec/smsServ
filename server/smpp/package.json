@@ -1,0 +1,7 @@
+{
+  "name": "smpp",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-bot": "^0.1.0"
+  }
+}
